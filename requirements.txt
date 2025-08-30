@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+ultralytics
+numpy
+Pillow
+google-genai
+streamlit-webrtc
+av
